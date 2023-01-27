@@ -83,7 +83,6 @@ plot(Hin);
 subplot(2,2,3);
 imshow(uint8(Ih));
 
-
 % Histogram of Output Image
 subplot(2,2,4);
 plot(HOut);
